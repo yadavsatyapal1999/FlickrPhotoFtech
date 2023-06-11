@@ -1,0 +1,4 @@
+// https://api.flickr.com/services/rest/?method=flickr.photos.getRecent&api_key=your_key&per_page=10&format=json&nojsoncallback=1
+// Key => 6303ac60dcfbdc62bae4eb4fafa1aa47
+// Secret => d5b516b76d194170
+// photos.search => `https://www.flickr.com/services/rest/?method=flickr.photos.search&api_key=XXXXXXXXXXXXXX&text=${searchWord}&per_page=${perPage}&page=${page}&format=json&nojsoncallback=1`
